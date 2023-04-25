@@ -202,8 +202,9 @@ img{
     border-radius: 15px;
     cursor: pointer;
 }
-.tela-centro .withyou{
-    background-image: none !important;
+
+div#tela12{
+    background: transparent !important;
 }
 .pop-up{
     display: none;
